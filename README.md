@@ -80,3 +80,5 @@ Wakaba酱会和HTML酱们成为好朋友么？
 <a href="http://www.amazon.co.jp/dp/4863541945" target="_blank">试读请点这里</a>
 -->
 <img src="https://pbs.twimg.com/media/C9RNDPIVwAAXAAu.jpg" width="150px">
+
+啊啊
